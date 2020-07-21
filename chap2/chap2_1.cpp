@@ -1,3 +1,7 @@
+//c++로 쉽게풀어 쓴 자료구조
+//Chapter 02 배열과 클래스
+//프로그래밍 프로젝트 1
+
 #include <cstdio>
 #define MAX_DEGREE 80
 
